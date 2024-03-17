@@ -63,4 +63,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujdeol&show_icons=true&locale=en&layout=compact" alt="anujdeol" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepankergoyal&show_icons=true&locale=en&layout=compact" alt="deepankergoyal" /></p>
