@@ -12,6 +12,5 @@
 - 🐳 Experience with Docker & Kubernetes
 - 🌱 Currently exploring scalable backend architectures
 - 📍 Based in Chandigarh, India
-- 🎯 Actively seeking full-time Backend / Full-Stack opportunities
 
 
